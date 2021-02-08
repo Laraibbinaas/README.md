@@ -4,3 +4,4 @@
 - Added read.me file
 - Added RPG Nested Dictionaries
 - Continuous Game Play for Directions
+- Added Module and Maps folder with dictionaries 
