@@ -1,4 +1,4 @@
-##Python RPG
+#Python RPG
 
 Just press play and the code should give you commands on how to play.
 When you are done with the game, press q to exit or close the program.
