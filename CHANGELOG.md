@@ -18,4 +18,3 @@
 - Print a visual map
 - Make the story a little longer and better
 - Fix when program crashes becasue you left map
--
