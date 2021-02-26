@@ -12,7 +12,7 @@
 - Fixed a bug which cause the game not to run
 - Added a little back story on why you are playing the game 
 
-## To do 
+## To do (Alpha and Beta testing)
 - Make the map bigger
 - Add iteams
 - Print a visual map
