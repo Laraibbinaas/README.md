@@ -9,7 +9,7 @@
 - Includes player, location, map, enemies and the commands to run game
 
 ## V2
-- Fixed a bug which cause the game not to run
+- Fixed a bug which caused the game not to run
 - Added a little back story on why you are playing the game 
 
 ## To do (Alpha and Beta testing)
